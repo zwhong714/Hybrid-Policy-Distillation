@@ -30,8 +30,8 @@ We currently provide a Qwen2.5-1.5B student distilled from Qwen2.5-7B-Thinking w
 
 | Model | AIME24 | AIME25 | AMC | MATH | OlympiadMath | GPQA |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| Qwen2.5-7B-Thinking (Teacher, `wh-zhu/Qwen2.5-7B-PSFT-RL-DAPO-90`) | 28.13 | 27.19 | 71.72 | 87.48 | 58.50 | 43.43 |
-| Qwen2.5-1.5B-Thinking (Student, `wh-zhu/qwen2.5-1.5B-longcot-reasoning-HPD`) | 13.75 | 18.13 | 54.14 | 76.30 | 45.33 | 31.31 |
+| Qwen2.5-7B-Thinking<br>Teacher: [`wh-zhu/Qwen2.5-7B-PSFT-RL-DAPO-90`](https://huggingface.co/wh-zhu/Qwen2.5-7B-PSFT-RL-DAPO-90) | 28.13 | 27.19 | 71.72 | 87.48 | 58.50 | 43.43 |
+| Qwen2.5-1.5B-Thinking<br>Student: [`wh-zhu/qwen2.5-1.5B-longcot-reasoning-HPD`](https://huggingface.co/wh-zhu/qwen2.5-1.5B-longcot-reasoning-HPD) | 13.75 | 18.13 | 54.14 | 76.30 | 45.33 | 31.31 |
 
 ### 📈 Training Dynamics
 
