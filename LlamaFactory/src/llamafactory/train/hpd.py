@@ -113,7 +113,7 @@ def compute_hpd_loss(
     adv2 = adv2.detach()
 
     ce_loss = -student_nll_loss
-
+    
     hpd_loss = -student_nll_loss * adv1 - adv2 * sampled_student_nll_loss * (labels != sampled_labels)
 
     num_active_elements = active_mask.sum() + 1e-8
