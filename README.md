@@ -1,12 +1,12 @@
 <div align="center">
 <h1>Hybrid Policy Distillation</h1>
 
-[<img src="https://img.icons8.com/emoji/48/000000/open-book-emoji.png" width="18" style="vertical-align:middle; margin-right:6px"/> <u>Paper</u>](https://arxiv.org/abs/2508.17784) |
+[<img src="https://img.icons8.com/emoji/48/000000/open-book-emoji.png" width="18" style="vertical-align:middle; margin-right:6px"/> <u>Paper</u>](https://arxiv.org/pdf/2604.20244) |
 [<img src="https://img.icons8.com/material-outlined/24/000000/github.png" width="18" style="vertical-align:middle; margin-right:6px"/> <u>Code</u>](https://github.com/zwhong714/Hybrid-Policy-Distillation) |
 [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="18" style="vertical-align:middle; margin-right:6px"/> <u>Models</u>](https://huggingface.co/collections/wh-zhu/psft-68afb02eb237149f9bd9075e)
 </div>
 
-Hybrid Policy Distillation (HPD) is a practical distillation framework for reasoning-oriented language models. This repository contains the code, configurations, and experiment assets for the project. If HPD is useful for your research or production work, please consider starring the repository and citing the paper.
+Hybrid Policy Distillation (HPD) is a practical distillation framework for reasoning-oriented language models. This repository contains the code, configurations, and experiment assets for the project. 
 
 ## 🎯 Overview
 
